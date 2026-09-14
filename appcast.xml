@@ -7,6 +7,25 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.4</title>
+            <pubDate>Mon, 14 Sep 2026 08:35:26 -0700</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>DriveTransfer now moves itself to your Applications folder if you open it from somewhere else, so updates always install properly.</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Figure5Media/drivetransfer-releases/releases/download/v1.4/DriveTransfer-1.4.dmg"
+                sparkle:edSignature="9EvuYopbRWnspiL6JtQ6+St9AutxqHpGwDKSxv2q5a4XgRfJnHDOWnmxL2PKBXBPSEWkwfWp3fHLX5YV8TkbBQ=="
+                length="35556037"
+                type="application/octet-stream" />
+        </item>
+
+
+        <item>
             <title>Version 1.3</title>
             <pubDate>Sun, 30 Aug 2026 16:51:36 -0700</pubDate>
             <sparkle:version>4</sparkle:version>

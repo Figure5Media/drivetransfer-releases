@@ -7,6 +7,25 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.5</title>
+            <pubDate>Thu, 17 Sep 2026 14:17:11 -0700</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Internal housekeeping. No changes to how transfers work.</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Figure5Media/drivetransfer-releases/releases/download/v1.5/DriveTransfer-1.5.dmg"
+                sparkle:edSignature="SJQJzrfc/Kojc3yprtyvJYOrzmTbXmEYKkWgJ+B3c5CoYvS0pF+HNmUAKgKUH16c1A/r1fbrh2DIXTxxtvVlBA=="
+                length="35566998"
+                type="application/octet-stream" />
+        </item>
+
+
+        <item>
             <title>Version 1.4</title>
             <pubDate>Mon, 14 Sep 2026 08:35:26 -0700</pubDate>
             <sparkle:version>5</sparkle:version>

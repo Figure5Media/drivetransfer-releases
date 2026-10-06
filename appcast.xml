@@ -7,6 +7,25 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.6</title>
+            <pubDate>Tue, 06 Oct 2026 16:17:40 -0700</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Throttling can now be changed mid-transfer. Fixes a bug that wouldn't allow single file transfers.</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Figure5Media/drivetransfer-releases/releases/download/v1.6/DriveTransfer-1.6.dmg"
+                sparkle:edSignature="MLIcuKao0ebbjHaB88rfAhHBz2iMgMsSFpBqjVh0BnfjaYS6FxIXpMMX9rxTTCkb4SyA/5TiNjCdxZcydhypAQ=="
+                length="35594482"
+                type="application/octet-stream" />
+        </item>
+
+
+        <item>
             <title>Version 1.5</title>
             <pubDate>Thu, 17 Sep 2026 14:17:11 -0700</pubDate>
             <sparkle:version>6</sparkle:version>

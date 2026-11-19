@@ -7,6 +7,25 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.8</title>
+            <pubDate>Thu, 19 Nov 2026 15:59:19 -0800</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Paste a Google Slides link to download its videos.</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Figure5Media/drivetransfer-releases/releases/download/v1.8/DriveTransfer-1.8.dmg"
+                sparkle:edSignature="cfy8jhdcHhMFrgwYUM3MAL+79EMH0AVU63DYa0zGvbFVcCiO6XRFF+qycSAKxD+0fhrpRqotAuy1+UHfJj8yDg=="
+                length="35686183"
+                type="application/octet-stream" />
+        </item>
+
+
+        <item>
             <title>Version 1.7</title>
             <pubDate>Thu, 19 Nov 2026 13:23:50 -0800</pubDate>
             <sparkle:version>8</sparkle:version>

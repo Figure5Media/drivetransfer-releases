@@ -7,6 +7,25 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.7</title>
+            <pubDate>Thu, 19 Nov 2026 13:23:50 -0800</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>New setting: skip Google Docs, Sheets & Slides so folder downloads don't stall converting them at the end.</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Figure5Media/drivetransfer-releases/releases/download/v1.7/DriveTransfer-1.7.dmg"
+                sparkle:edSignature="EZgDRm5VvrChERt6rkkIWhDU3oP1e2d3z7HcVaLcmXkM+KOvu1yhA7IvdSEZS/IVs19lInHwP0hcLRjL1WEgAg=="
+                length="35607981"
+                type="application/octet-stream" />
+        </item>
+
+
+        <item>
             <title>Version 1.6</title>
             <pubDate>Tue, 06 Oct 2026 16:17:40 -0700</pubDate>
             <sparkle:version>7</sparkle:version>

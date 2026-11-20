@@ -7,6 +7,25 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.9</title>
+            <pubDate>Thu, 19 Nov 2026 16:21:01 -0800</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Shows a dot on the gear icon when an update is available.</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Figure5Media/drivetransfer-releases/releases/download/v1.9/DriveTransfer-1.9.dmg"
+                sparkle:edSignature="6ILc+Ampv1f1TO2S2CB8SNT+duINOjHH7KzHJJwo/b5FGlblY8YcYj92MAuv1J710HsY3CJH+fVfXG5dzlFDBw=="
+                length="35725982"
+                type="application/octet-stream" />
+        </item>
+
+
+        <item>
             <title>Version 1.8</title>
             <pubDate>Thu, 19 Nov 2026 15:59:19 -0800</pubDate>
             <sparkle:version>9</sparkle:version>
